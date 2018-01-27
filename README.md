@@ -1,8 +1,8 @@
 # Machine Learning Project Recommender System
 
-[Link](https://github.com/armand33/epfl_ml_project/blob/master/project_2/report/project_2.pdf) to the report for more details.
+[Link](https://github.com/armand33/recommender_system/blob/master/report.pdf) to the report for more details.
 
-Team members:
+Authors:
 * Armand Boschin
 * Guirec Maloisel
 * Adrian Valente
