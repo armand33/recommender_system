@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+test.csv
+train.csv
+__pycache__
+.idea
+__init__.py
+notebooks/Backup
+movielens100k.csv
+train_test.png
+ex10.ipynb
